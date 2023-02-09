@@ -3,7 +3,7 @@
 //  Sarvam
 //
 //  Created by Raju on 03/01/17.
-//  Copyright © 2017 Appiness. All rights reserved.
+//  Copyright © 2017 Raju. All rights reserved.
 //
 
 import Foundation
